@@ -1,4 +1,4 @@
-name: Bug Report
+﻿name: Bug Report
 description: You are facing any issues with the application? You see any warnings or errors in the logs?
 title: "[Bug]: "
 labels: ["bug"]
@@ -42,5 +42,8 @@ body:
       options:
         - label: I have reviewed the [documentation](https://t0bst4r.github.io/home-assistant-matter-hub/) and the linked troubleshooting guide.
           required: true
-        - label: I have searched the [issues](https://github.com/t0bst4r/home-assistant-matter-hub/issues) for a similar problem.
+        - label: I have searched the [issues](https://github.com/veehome/home-assistant-matter-hub/issues) for a similar problem.
           required: true
+
+
+

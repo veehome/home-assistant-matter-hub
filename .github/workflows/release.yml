@@ -1,4 +1,4 @@
-name: Release
+﻿name: Release
 
 on:
   workflow_dispatch:
@@ -144,7 +144,7 @@ jobs:
         uses: peter-evans/repository-dispatch@v4
         with:
           token: ${{ secrets.ADDON_REPOSITORY_PAT }}
-          repository: "t0bst4r/home-assistant-addons"
+          repository: "veehome/home-assistant-addons"
           event-type: release
           client-payload: |
             {
@@ -153,3 +153,6 @@ jobs:
               "version": "${{needs.release.outputs.release-version}}" ,
               "changelogUrl": "https://github.com/${{github.repository}}/releases/download/v${{needs.release.outputs.release-version}}/CHANGELOG_FULL.md"
             }
+
+
+

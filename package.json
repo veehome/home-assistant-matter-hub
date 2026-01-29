@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "@home-assistant-matter-hub/root",
   "version": "0.0.0",
   "private": true,
@@ -58,3 +58,4 @@
     "vitest": "^4.0.18"
   }
 }
+

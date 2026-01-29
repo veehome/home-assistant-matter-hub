@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "home-assistant-matter-hub",
   "description": "",
   "version": "0.0.0",
@@ -10,7 +10,7 @@
   "author": {
     "email": "t0bst4r@outlook.com",
     "name": "t0bst4r",
-    "url": "https://github.com/t0bst4r"
+    "url": "https://github.com/veehome"
   },
   "keywords": [
     "home-assistant",
@@ -31,10 +31,10 @@
     "smart-home"
   ],
   "bugs": {
-    "url": "https://github.com/t0bst4r/home-assistant-matter-hub/issues"
+    "url": "https://github.com/veehome/home-assistant-matter-hub/issues"
   },
   "license": "Apache-2.0",
-  "repository": "github:t0bst4r/home-assistant-matter-hub",
+  "repository": "github:veehome/home-assistant-matter-hub",
   "scripts": {
     "cleanup": "npx rimraf node_modules dist pack LICENSE README.md",
     "build": "node build.js",
@@ -101,3 +101,6 @@
     }
   }
 }
+
+
+

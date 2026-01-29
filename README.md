@@ -1,11 +1,11 @@
-# Home-Assistant-Matter-Hub
+﻿# Home-Assistant-Matter-Hub
 
 !["Home-Assistant-Matter-Hub"](./docs/assets/hamh-logo-small.png)
 
 ---
 
 > [!IMPORTANT]  
-> ⚠️ **Project Status: End of Maintenance**
+> âš ï¸ **Project Status: End of Maintenance**
 >
 > As of **January 2026**, this project is no longer actively maintained.
 >
@@ -13,16 +13,16 @@
 > to take over the project. Due to personal time constraints, I am no longer able to continue development or provide support.
 >
 > **What this means:**
-> - ❌ No further feature development
-> - ❌ No bug fixes or updates
-> - ❌ No guaranteed support
+> - âŒ No further feature development
+> - âŒ No bug fixes or updates
+> - âŒ No guaranteed support
 >
 > The repository will remain available for reference and forking.
 >
-> 💡 I would be very happy to see this project continued by the community.  
+> ðŸ’¡ I would be very happy to see this project continued by the community.  
 > If you plan to fork it and continue development: **may the best fork prevail.**
 >
-> Thank you to everyone who used, tested, and contributed to this project ❤️
+> Thank you to everyone who used, tested, and contributed to this project â¤ï¸
 
 
 ---
@@ -41,3 +41,8 @@ Please see the [documentation](https://t0bst4r.github.io/home-assistant-matter-h
 known issues, limitations and guides.
 
 ---
+
+
+
+
+
